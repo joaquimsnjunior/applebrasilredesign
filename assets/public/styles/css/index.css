@@ -53,7 +53,7 @@ nav .desktop-nav li a:hover {
 }
 
 .apple-logo {
-  background: url('/assets/public/files/images/apple-logo.svg');
+  background: url('/assets/public/images/icons/apple-logo.svg');
   display: block;
   background-position: center;
   height: 44px;
@@ -62,7 +62,7 @@ nav .desktop-nav li a:hover {
 }
 
 .search {
-  background: url('/assets/public/files/images/search-icon.svg');
+  background: url('/assets/public/images/icons/search-icon.svg');
   display: block;
   background-position: center;
   height: 44px;
@@ -71,7 +71,7 @@ nav .desktop-nav li a:hover {
 }
 
 .bag {
-  background: url('/assets/public/files/images/bag-icon.svg');
+  background: url('/assets/public/images/icons/bag-icon.svg');
   display: block;
   background-position: center;
   background-size: 17px;
@@ -81,7 +81,7 @@ nav .desktop-nav li a:hover {
 }
 
 .close {
-  background: url('/assets/public/files/images/close-icon.svg');
+  background: url('/assets/public/images/icons/close-icon.svg');
   display: block;
   background-position: center;
   background-size: 17px;
